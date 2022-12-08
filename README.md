@@ -1,1 +1,1 @@
-# test-blockchain
+# blockchain-sample
