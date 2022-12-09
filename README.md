@@ -51,7 +51,7 @@
 
 1. npm
   ```bash
-  npm install npm@latest -g
+  npm i -g npm@latest
   ```
 
 ### Installation
