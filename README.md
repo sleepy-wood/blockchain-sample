@@ -15,17 +15,14 @@
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 
-
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/sleepy-wood">
+    <img src="https://github.com/sleepy-wood/client-web/blob/dev/src/assets/images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">pre-learning blockchain by sample code</h3>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -121,11 +118,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/sleepy-wood/blockchain-sample.svg?style=for-the-badge
+[contributors-url]: https://github.com/sleepy-wood/blockchain-sample/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sleepy-wood/blockchain-sample.svg?style=for-the-badge
+[forks-url]: https://github.com/sleepy-wood/blockchain-sample/network/members
+[stars-shield]: https://img.shields.io/github/stars/sleepy-wood/blockchain-sample.svg?style=for-the-badge
+[stars-url]: https://github.com/sleepy-wood/blockchain-sample/stargazers
+[license-shield]: https://img.shields.io/github/license/sleepy-wood/blockchain-sample.svg?style=for-the-badge
+[license-url]: https://github.com/sleepy-wood/blockchain-sample/blob/master/LICENSE.txt
