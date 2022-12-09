@@ -7,12 +7,10 @@
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 
-<br />
 <div align="center">
   <a href="https://github.com/sleepy-wood">
     <img src="https://github.com/sleepy-wood/client-web/blob/dev/src/assets/images/logo.png" alt="Logo" width="120" height="120">
   </a>
-
   <h3 align="center">pre-learning blockchain by sample code</h3>
 </div>
 
@@ -76,7 +74,6 @@
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/sleepy-wood/blockchain-sample.svg?style=for-the-badge
 [contributors-url]: https://github.com/sleepy-wood/blockchain-sample/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/sleepy-wood/blockchain-sample.svg?style=for-the-badge
